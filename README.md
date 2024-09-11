@@ -63,7 +63,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=anicca3S84&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=anicca3S84&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anicca3S84&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anicca3S84&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22%20alt=%22top%20langs" />
 
 
 </div>
