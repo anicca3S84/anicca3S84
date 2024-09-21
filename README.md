@@ -50,8 +50,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  [![GitHub Streak](https://ssr-contributions-svg.vercel.app/_/anicca3S84?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
-  
+  ![GitHub Streak](https://ssr-contributions-svg.vercel.app/_/anicca3S84?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green)
+    
   <br/><br/><br/>
 </div>
 
