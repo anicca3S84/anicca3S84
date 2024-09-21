@@ -17,9 +17,10 @@
  </div>
  
  <hr/>
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<div>
+    <h2 align="center">👽 Where to find me 👽</h2>
+</div>
+
 <!-- https://icons8.com -->
 <div align="center">
 
