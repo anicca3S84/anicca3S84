@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/>
+<img width=100% bottom=50px src="https://github.com/anicca3S84/anicca3S84/blob/main/banner.png"/>
 <br>
 <br>
 
