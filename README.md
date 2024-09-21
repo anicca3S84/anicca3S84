@@ -1,4 +1,7 @@
-<img width=100% bottom=50px src="https://github.com/anicca3S84/anicca3S84/blob/main/banner.png"/>
+<div style="text-align: center; margin-bottom: 50px;">
+  <img src="https://github.com/anicca3S84/anicca3S84/blob/main/banner.png" style="width: 80%; border: 2px solid #ffffff; border-radius: 10px;" />
+</div>
+
 <br>
 <br>
 
