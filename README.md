@@ -38,15 +38,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=anicca3S84&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=anicca3S84&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<br/><br/>
-
 <hr/>
 
 <br/>
